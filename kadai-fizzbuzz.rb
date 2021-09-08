@@ -14,5 +14,6 @@ def fizzbuzz(a,b)
 end
 end
 
+
 num_max = 100
 fizzbuzz(1,num_max)
