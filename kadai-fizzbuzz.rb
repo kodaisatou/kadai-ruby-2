@@ -8,7 +8,8 @@ def fizzbuzz(a,b)
     puts 'Fizz'
   elsif num % 5 == 0
     puts 'Buzz'
-  else puts num
+  else 
+    puts num
   end
 end
 end
